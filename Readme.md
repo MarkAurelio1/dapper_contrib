@@ -5,5 +5,3 @@ Um projeto para fixação dos meus conhecimentos utilizando Dapper, utilizei à 
 Acabei criando uma interface com algumas opções para criação de usuário, tags e outras funcionabilidades que ainda vou colocar.
 
 Esse é um projeto de estudos, então não tem criptogração, foco mesmo foi mais a manipulação do banco de dados, e implementei interface para aperfeiçoar , pois nos meus projetos futuros como, criação de algumas API's, estarei usando bastante.
-
-> > > > > > > 983f700092adc48acaa1b7482bb4af2a5af91d4b
